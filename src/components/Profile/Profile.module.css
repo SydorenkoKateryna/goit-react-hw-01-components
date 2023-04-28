@@ -11,13 +11,7 @@
   padding: 30px;
   text-align: center;
 
-  background-color: white;
-}
-
-.avatar {
-  display: block;
-  max-width: 100%;
-  height: auto;
+  background-color: rgb(255, 255, 255);
 }
 
 .name {
@@ -41,7 +35,7 @@
   height: 100px;
 
   background-color: rgb(24, 26, 29);
-  color: #ffffff;
+  color: rgb(255, 255, 255);
 }
 
 .stats-item {
