@@ -10,7 +10,7 @@
   padding-top: 20px;
   padding-bottom: 20px;
 
-  font-size: 18px;
+  font-size: 20px;
   text-transform: uppercase;
   text-align: center;
 }
@@ -20,12 +20,12 @@
   justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
-  max-width: 300px;
+  max-width: 400px;
 }
 
 .item {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
 
   display: flex;
   flex-direction: column;
@@ -35,11 +35,10 @@
 
 .label {
   text-align: center;
-  font-size: 14px;
 }
 
 .percentage {
   margin-top: 5px;
 
-  font-size: 18px;
+  font-size: 20px;
 }
